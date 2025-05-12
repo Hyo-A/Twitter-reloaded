@@ -23,6 +23,7 @@ const GlobalStyles = createGlobalStyle`
     --light-color: #fff;
     --border-color: #ccc;
     --accent-color: #00c060;
+    --sub-color: #1d9bf9;
   }
 
   html {
@@ -35,8 +36,8 @@ const GlobalStyles = createGlobalStyle`
     font-size: 1.6rem;
     display: flex;
     justify-content: center;
-    align-items: center;
     background: var(--gray-color);
+    padding-top: 100px;
   }
 `;
 

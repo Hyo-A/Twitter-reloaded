@@ -51,7 +51,7 @@ const Login = () => {
   };
   return (
     <Container>
-      <Title>Join⛅</Title>
+      <Title>Login⛅</Title>
       <Form onSubmit={onsubmit}>
         <Input
           value={email}
